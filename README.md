@@ -5,7 +5,7 @@
 [yakovenko.vlad.dev@gmail.com](mailto:yakovenko.vlad.dev@gmail.com) [LinkedIn](https://www.linkedin.com/in/vlad-yakovenko-dev/) [GitHub](https://github.com/hiki349)
 
 ### ABOUT
-Front-End Developer with 3.5+ years of commercial experience, working in a team ranging from 2 to 20 members. Have experience of team-leading. Built full cycle of development: from gathering product owner requirements to establishing fully automated release process with high test coverage, detailed analytics and CI/CD.
+Front-End Developer with 3.5+ years of commercial experience, working in a team ranging from 2 to 20 members. Have experience of team-leading. 1 year of mentoring experience, guiding developers in best practices and architectural decisions. Built full cycle of development: from gathering product owner requirements to establishing fully automated release process with high test coverage, detailed analytics and CI/CD.
 
 ### SKILLS
 JavaScript, TypeScript, React, Next, Vue, Angular, Svelte, Redux, Redux-Toolkit, MobX, Zustand, Vuex, Pinia, Jotai, TanStack Query, RTK Query, GSAP, CSS animation, Ant Design, MUI, Tailwind CSS, Formik, React Hook Form, Zod, Yup, HTML, HAML, CSS, SCSS, SASS
