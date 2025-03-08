@@ -25,4 +25,4 @@ JavaScript, TypeScript, React, Next, Vue, Angular, Svelte, Redux, Redux-Toolkit,
 - Unified the technology stack across the project, reducing complexity and accelerating the onboarding of new employees by **2–2.5** times.
 
 #### NDA: 11/2021 - 04/2023
-#### FREELANCE: 05/2021 - 11/2021
+#### CRYPTENSLY: 05/2021 - 11/2021
